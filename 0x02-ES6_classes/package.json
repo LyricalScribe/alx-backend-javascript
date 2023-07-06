@@ -8,6 +8,7 @@
   },
   "devDependencies": {
     "@babel/core": "^7.6.0",
+<<<<<<< HEAD
     "@babel/node": "^7.2.2",
     "@babel/preset-env": "^7.6.0",
     "eslint": "^8.43.0",
@@ -15,5 +16,14 @@
     "eslint-plugin-import": "^2.18.2",
     "eslint-plugin-jest": "^27.2.2",
     "jest": "^23.6.0"
+=======
+    "@babel/node": "^7.8.0",
+    "@babel/preset-env": "^7.6.0",
+    "eslint": "^8.43.0",
+    "eslint-config-airbnb-base": "^14.0.0",
+    "eslint-plugin-import": "^2.18.2",
+    "eslint-plugin-jest": "^27.2.2",
+    "jest": "^29.5.0"
+>>>>>>> 74277b58428b76b5d4577f14d767a83dccdacaf2
   }
 }
