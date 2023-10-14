@@ -1,4 +1,4 @@
-export default function updateUniqueItems (myMap) {
+export default function updateUniqueItems(myMap) {
   try {
     const list = Array.from(myMap.keys());
 
